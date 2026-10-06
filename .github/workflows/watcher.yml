@@ -21,18 +21,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Testaa ntfy
-        if: github.event_name == 'workflow_dispatch'
-        env:
-          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: |
-          curl -fsS \
-            -H "Title: Pokemon-vahti TESTI" \
-            -H "Priority: high" \
-            -H "Tags: white_check_mark" \
-            -d "GitHub Actions -> ntfy toimii!" \
-            "https://ntfy.sh/$NTFY_TOPIC"
-
       - name: Asenna kirjastot
         run: pip install -r requirements.txt
 
