@@ -1,0 +1,44 @@
+name: Pokemon Stock Watcher
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  check-stock:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Hae repository
+        uses: actions/checkout@v4
+
+      - name: Asenna Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Asenna kirjastot
+        run: pip install -r requirements.txt
+
+      - name: Tarkista tuotteet
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python pokemon_watcher.py
+
+      - name: Tallenna saatavuustila
+        run: |
+          git config user.name "Pokemon Stock Watcher"
+          git config user.email "actions@github.com"
+          git add stock_state.json
+
+          if git diff --cached --quiet; then
+            echo "Saatavuustila ei muuttunut."
+          else
+            git commit -m "Update stock state"
+            git push
+          fi
