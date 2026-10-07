@@ -33,7 +33,7 @@ PRODUCTS = [
         "store": "Muovitukku",
         "url": "https://www.muovitukku.fi/tuote/pokemon-elite-trainer-box-30th/",
     },
-    {
+        {
         "name": "30th Celebration Booster Bundle",
         "store": "TCG-kauppa",
         "url": "https://www.tcgkauppa.fi/tuote/pokemon-30th-celebration-booster-bundle/",
@@ -43,27 +43,27 @@ PRODUCTS = [
         "store": "TCG-kauppa",
         "url": "https://www.tcgkauppa.fi/tuote/pokemon-30th-celebration-elite-trainer-box/",
     },
-    {
+        {
         "name": "30th Celebration Elite Trainer Box",
         "store": "Verkkokauppa.com",
         "url": "https://www.verkkokauppa.com/fi/product/1069670/Pokemon-TCG-30th-Elite-Trainer-Box-kerailykortit",
     },
-    {
+            {
         "name": "30th Celebration Booster Bundle",
         "store": "Verkkokauppa.com",
         "url": "https://www.verkkokauppa.com/fi/product/1069691/Pokemon-TCG-30th-Booster-Bundle-kerailykortit-6-pack",
     },
-    {
+             {
         "name": "Prismatic Evolutions Booster Bundle",
         "store": "Verkkokauppa.com",
         "url": "https://www.verkkokauppa.com/fi/product/972680/Pokemon-TCG-Scarlet-Violet-8-5-Prismatic-Evolutions-Booster",
     },
-    {
+              {
         "name": "Prismatic Evolutions Elite Trainer Box",
         "store": "Verkkokauppa.com",
         "url": "https://www.verkkokauppa.com/fi/product/972662/Pokemon-TCG-Scarlet-Violet-8-5-Prismatic-Evolutions-Elite-Tr",
     },
-    {
+              {
         "name": "Ascended Heroes Booster Bundle",
         "store": "Verkkokauppa.com",
         "url": "https://www.verkkokauppa.com/fi/product/1037309/Pokemon-ME02-5-Ascended-Heroes-Booster-Bundle-kerailykorttip",
@@ -73,20 +73,25 @@ PRODUCTS = [
         "store": "Verkkokauppa.com",
         "url": "https://www.verkkokauppa.com/fi/product/1031984/Pokemon-TCG-ME02-5-Ascended-Heroes-Elite-Trainer-Box-keraily",
     },
-    {
+            {
         "name": "30th Celebration Elite Trainer Box",
         "store": "PokéPulls",
         "url": "https://pokepulls.fi/tuote/pokemon-tcg-30th-celebration-elite-trainer-box",
     },
-    {
+              {
         "name": "30th Celebration Booster Bundle",
         "store": "PokéPulls",
-        "url": "https://pokepulls.fi/product/pokemon-tcg-30th-celebration-booster-bundle-julkaisu-2-10-2026-max-2-asiakas",
-    },
-    {
+        "url": "https://pokepulls.fi/product/pokemon-tcg-30th-celebration-booster-bundle",
+    },  
+                  {
         "name": "30th Celebration 2-Pack Blister",
         "store": "MaxGaming",
         "url": "https://www.maxgaming.fi/fi/pokemon/pokemon-30th-celebration-2-pack-blister",
+    },
+                  {
+    "name": "Ascended Heroes Booster Bundle",
+    "store": "Maxgaming",
+    "url": "https://www.maxgaming.fi/fi/pokemon/pokemon-ascended-heroes-boosteripaketti"
     },
     {
         "name": "30th Celebration Elite Trainer Box",
@@ -98,7 +103,7 @@ PRODUCTS = [
         "store": "Korttistoppi",
         "url": "https://www.korttistoppi.fi/tuote/pokemon-tcg-30th-celebration-booster-bundle-julkaisupaiva-2102026",
     },
-    {
+     {
         "name": "Ascended Heroes Elite Trainer Box",
         "store": "Korttistoppi",
         "url": "https://www.korttistoppi.fi/tuote/pokemon-tcg-mega-evolution-25-ascended-heroes-elite-trainer-box-julkaisupaiva-2022026",
@@ -109,6 +114,11 @@ PRODUCTS = [
         "url": "https://www.prisma.fi/tuotteet/111388829/pokemon-elite-trainer-box-30th-111388829",
     },
     {
+        "name": "Ascended heroes booster bundle",
+        "store": "Prisma",
+        "url": "https://www.prisma.fi/tuotteet/111268553/pokemon-tcg-kerailykortit-me025-ascended-heroes-booster-bundle-111268553?utm_source=chatgpt.com"
+    },
+        {
         "name": "30th Celebration 2-Pack Blister",
         "store": "Prisma",
         "url": "https://www.prisma.fi/tuotteet/111388834/pokemon-2-pack-blister-30th-111388834",
@@ -118,42 +128,42 @@ PRODUCTS = [
         "store": "Prisma",
         "url": "https://www.prisma.fi/tuotteet/111388842/pokemon-bst-bundle-30th-111388842",
     },
-    {
+     {
         "name": "Ascended Heroes Booster Bundle",
         "store": "Prisma",
         "url": "https://www.prisma.fi/tuotteet/111268553/pokemon-tcg-kerailykortit-me025-ascended-heroes-booster-bundle-111268553",
     },
+     {
+    "name": "Prismatic Evolutions Booster Bundle",
+    "store": "Prisma",
+    "url": "https://www.prisma.fi/tuotteet/111107226/pokemon-booster-bundle-scarlet-violet-prismatic-evolutions-kerailykortit-111107226"
+},
     {
         "name": "Ascended Heroes Elite Trainer Box",
         "store": "Prisma",
         "url": "https://www.prisma.fi/tuotteet/111239007/pokemon-tcg-me025-elite-trainer-box-111239007",
     },
     {
-        "name": "30th Celebration Elite Trainer Box",
-        "store": "Peliparatiisi",
-        "url": "https://peliparatiisi.net/en/products/pokemon-tcg-30th-celebration-elite-trainer-box",
-    },
-    {
-        "name": "30th Celebration Booster Bundle",
-        "store": "Peliparatiisi",
-        "url": "https://peliparatiisi.net/en/products/pokemon-tcg-30th-celebration-booster-bundle",
-    },
-    {
-        "name": "30th Celebration Sylveon ex Box",
-        "store": "Peliparatiisi",
-        "url": "https://peliparatiisi.net/en/products/pokemon-tcg-30th-celebration-sylveon-ex-box",
-    },
-    {
-        "name": "30th Celebration 2-Pack Blister",
-        "store": "Peliparatiisi",
-        "url": "https://peliparatiisi.net/en/products/pokemon-tcg-30th-celebration-2-pack-blister",
-    },
-    {
-        "name": "Prismatic Evolutions Elite Trainer Box",
-        "store": "TCG-kauppa",
-        "url": "https://www.tcgkauppa.fi/tuote/pokemon-sv8-5-prismatic-evolutions-elite-trainer-box/",
-    },
-    {
+    "name": "30th Celebration Elite Trainer Box",
+    "store": "Peliparatiisi",
+    "url": "https://peliparatiisi.net/en/products/pokemon-tcg-30th-celebration-elite-trainer-box",
+},
+  {
+    "name": "30th Celebration Booster Bundle",
+    "store": "Peliparatiisi",
+    "url": "https://peliparatiisi.net/en/products/pokemon-tcg-30th-celebration-booster-bundle",
+},
+{
+    "name": "30th Celebration Sylveon ex Box",
+    "store": "Peliparatiisi",
+    "url": "https://peliparatiisi.net/en/products/pokemon-tcg-30th-celebration-sylveon-ex-box",
+},  
+{
+    "name": "30th Celebration 2-Pack Blister",
+    "store": "Peliparatiisi",
+    "url": "https://peliparatiisi.net/en/products/pokemon-tcg-30th-celebration-2-pack-blister",
+},
+ {
         "name": "Prismatic Evolutions Elite Trainer Box",
         "store": "Kärkkäinen",
         "url": "https://www.karkkainen.com/verkkokauppa/pokemon-tcg-scarlet-violet-8-5-prismatic-evolutions-elite-trainer-box-kerailykortit",
