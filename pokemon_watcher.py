@@ -20,7 +20,7 @@ STATE_FILE = "stock_state.json"
 PRODUCTS = [
 {
     "name": "30th Ultra Premium Collection", 
-    "Store": "Muovitukku",
+    "store": "Muovitukku",
     "url": "https://www.muovitukku.fi/tuote/pokemon-30th-celebration-ultra-premium-collection/"
 },
     
