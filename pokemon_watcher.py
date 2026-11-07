@@ -18,11 +18,25 @@ STATE_FILE = "stock_state.json"
 
 
 PRODUCTS = [
-    {
-        "name": "30th Celebration Mini Tin",
-        "store": "Muovitukku",
-        "url": "https://www.muovitukku.fi/tuote/pokemon-30th-celebration-mini-tin/",
-    },
+{
+    "name": "30th Ultra Premium Collection", 
+    "Store": "Muovitukku",
+    "url": "https://www.muovitukku.fi/tuote/pokemon-30th-celebration-ultra-premium-collection/"
+},
+    
+{
+    "name": "30th Ultra Premium Collection Day/Night",
+    "store": "Karkkainen",
+    "url": "https://www.karkkainen.com/verkkokauppa/pokemon-tcg-ultra-premium-collection-30th-kerailykortit-lajitelma-"
+},
+    
+{
+    "name": "30th Ultra Premium Collection Day/Night",
+    "store": "Prisma",
+    "url": "https://www.prisma.fi/tuotteet/111388827/pokemon-ultra-premium-coll-30th-erilaisia-111388827"
+},
+
+    
     {
         "name": "30th Celebration Booster Bundle",
         "store": "Muovitukku",
@@ -32,11 +46,6 @@ PRODUCTS = [
         "name": "30th Celebration Elite Trainer Box",
         "store": "Muovitukku",
         "url": "https://www.muovitukku.fi/tuote/pokemon-elite-trainer-box-30th/",
-    },
-        {
-        "name": "30th Celebration Booster Bundle",
-        "store": "TCG-kauppa",
-        "url": "https://www.tcgkauppa.fi/tuote/pokemon-30th-celebration-booster-bundle/",
     },
     {
         "name": "30th Celebration Elite Trainer Box",
