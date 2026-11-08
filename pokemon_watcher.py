@@ -35,6 +35,11 @@ PRODUCTS = [
     "store": "Prisma",
     "url": "https://www.prisma.fi/tuotteet/111388827/pokemon-ultra-premium-coll-30th-erilaisia-111388827"
 },
+    {
+    "name": "30th Ultra Premium Collection",
+    "store": "PokéPulls",
+    "url": "https://pokepulls.fi/tuote/pokemon-tcg-30th-celebration-ultra-premium-collection-max-1-asiakas"
+},
 
     
     {
