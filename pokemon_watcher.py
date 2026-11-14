@@ -24,11 +24,6 @@ PRODUCTS = [
     "url": "https://www.muovitukku.fi/tuote/pokemon-30th-celebration-ultra-premium-collection/"
 },
     
-{
-    "name": "30th Ultra Premium Collection Day/Night",
-    "store": "Karkkainen",
-    "url": "https://www.karkkainen.com/verkkokauppa/pokemon-tcg-ultra-premium-collection-30th-kerailykortit-lajitelma-"
-},
     
 {
     "name": "30th Ultra Premium Collection Day/Night",
