@@ -88,14 +88,14 @@ PRODUCTS = [
         "url": "https://www.verkkokauppa.com/fi/product/1031984/Pokemon-TCG-ME02-5-Ascended-Heroes-Elite-Trainer-Box-keraily",
     },
             {
-        "name": "30th Celebration Elite Trainer Box",
+        "name": "Ascended heroes",
         "store": "PokéPulls",
-        "url": "https://pokepulls.fi/tuote/pokemon-tcg-30th-celebration-elite-trainer-box",
+        "url": "https://pokepulls.fi/product/pokemon-tcg-me2-5-ascended-heroes-mega-emboar-ex-box-max-1-kpl",
     },
               {
-        "name": "30th Celebration Booster Bundle",
+        "name": "Stellar booster",
         "store": "PokéPulls",
-        "url": "https://pokepulls.fi/product/pokemon-tcg-30th-celebration-booster-bundle",
+        "url": "https://pokepulls.fi/product/pokemon-tcg-sv7-stellar-crown-booster",
     },  
                   {
         "name": "30th Celebration 2-Pack Blister",
