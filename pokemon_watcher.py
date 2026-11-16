@@ -229,12 +229,12 @@ def check_availability(product):
     page_text = soup.get_text(" ", strip=True).lower()
 
     out_of_stock_phrases = [
-        "Varasto loppu",
-        "Tämä tuote on tällä hetkellä loppu",
+        "varasto loppu",
+        "tämä tuote on tällä hetkellä loppu",
         "ei varastossa",
         "ei saatavilla",
         "loppuunmyyty",
-        "Ei saatavilla",
+        "ei saatavilla",
         "loppunut",
         "sold out",
     ]
