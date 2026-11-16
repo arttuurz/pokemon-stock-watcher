@@ -245,7 +245,7 @@ def check_availability(product):
     ]
 
     for phrase in out_of_stock_phrases:
-        if phrase in page_text:
+        if phrase.lower() in page_text:
             return False
 
     return True
