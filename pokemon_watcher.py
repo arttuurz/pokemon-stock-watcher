@@ -18,6 +18,11 @@ STATE_FILE = "stock_state.json"
 
 
 PRODUCTS = [
+    {
+        "name": "30th Ultra premium",
+        "sotre": "verkkokauppa",
+        "url": "https://www.verkkokauppa.com/fi/product/1072550/Pokemon-TCG-30th-Ultra-Premium-Collection-Night-kerailykorti?utm_source=google&utm_medium=cpc&utm_campaign=Shopping%20Verkkokauppa.com%20br%C3%A4ndi&utm_id=19146847813&gad_source=1&gad_campaignid=19146847813&gbraid=0AAAAAD_saoERkNlAKqTJjIGGwtcCfrXr2&gclid=Cj0KCQiA8OrXBhDEARIsAECtlx6patXKLEiWnnIzoNXKxNK988x68633I2IU8mO0RJqJzjdvaov6uDUaAlFXEALw_wcB"
+    }
 {
     "name": "30th Ultra Premium Collection", 
     "store": "Muovitukku",
