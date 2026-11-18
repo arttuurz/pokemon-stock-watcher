@@ -19,6 +19,11 @@ STATE_FILE = "stock_state.json"
 
 PRODUCTS = [
     {
+    "name": "3+th Ultra Premium Collection",
+    "store": "Peliparatiisi",
+    "url": "https://peliparatiisi.net/en/products/pokemon-tcg-30th-celebration-ultra-premium-collection-night?srsltid=AYCX9vJBKHWATyzmJfsN81yijhN2K8dNxmkpGA7WyUFZ6IHRWwg1DCkK"
+},
+    {
       "name": "Prismatic UPC",
         "store": "verkkokauppa",
         "url": "https://www.verkkokauppa.com/fi/product/972686/Pokemon-TCG-Scarlet-Violet-8-5-Prismatic-Evolutions-Super-Pr"
