@@ -242,9 +242,8 @@ def check_availability(product):
         "Varasto loppu",
         "Tämä tuote on tällä hetkellä loppu",
         "ei varastossa",
-        "ei saatavilla",
+        "Ei saatavilla",
         "loppuunmyyty",
-        "ei saatavilla",
         "loppunut",
         "sold out",
     ]
