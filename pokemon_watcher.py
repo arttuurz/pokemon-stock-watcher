@@ -43,7 +43,7 @@ PRODUCTS = [
     {
     "name": "30th Ultra Premium Collection",
     "store": "PokéPulls",
-    "url": "https://pokepulls.fi/tuote/pokemon-tcg-30th-celebration-ultra-premium-collection-max-1-asiakas"
+    "url": "https://pokepulls.fi/tuote/pokemon-tcg-30th-celebration-ultra-premium-collection-night-max-1-asiakas"
 },
 
     
