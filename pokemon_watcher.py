@@ -33,13 +33,7 @@ PRODUCTS = [
         "store": "verkkokauppa",
         "url": "https://www.verkkokauppa.com/fi/product/1072550/Pokemon-TCG-30th-Ultra-Premium-Collection-Night-kerailykorti?utm_source=google&utm_medium=cpc&utm_campaign=Shopping%20Verkkokauppa.com%20br%C3%A4ndi&utm_id=19146847813&gad_source=1&gad_campaignid=19146847813&gbraid=0AAAAAD_saoERkNlAKqTJjIGGwtcCfrXr2&gclid=Cj0KCQiA8OrXBhDEARIsAECtlx6patXKLEiWnnIzoNXKxNK988x68633I2IU8mO0RJqJzjdvaov6uDUaAlFXEALw_wcB"
     },
-{
-    "name": "30th Ultra Premium Collection", 
-    "store": "Muovitukku",
-    "url": "https://www.muovitukku.fi/tuote/pokemon-30th-celebration-ultra-premium-collection/"
-},
-    
-    
+ 
 {
     "name": "30th Ultra Premium Collection Day/Night",
     "store": "Prisma",
@@ -51,22 +45,6 @@ PRODUCTS = [
     "url": "https://pokepulls.fi/tuote/pokemon-tcg-30th-celebration-ultra-premium-collection-night-max-1-asiakas"
 },
 
-    
-    {
-        "name": "30th Celebration Booster Bundle",
-        "store": "Muovitukku",
-        "url": "https://www.muovitukku.fi/tuote/pokemon-tcg-30th-celebration-booster-bundle/",
-    },
-    {
-        "name": "30th Celebration Elite Trainer Box",
-        "store": "Muovitukku",
-        "url": "https://www.muovitukku.fi/tuote/pokemon-elite-trainer-box-30th/",
-    },
-    {
-        "name": "30th Celebration Elite Trainer Box",
-        "store": "TCG-kauppa",
-        "url": "https://www.tcgkauppa.fi/tuote/pokemon-30th-celebration-elite-trainer-box/",
-    },
         {
         "name": "30th Celebration Elite Trainer Box",
         "store": "Verkkokauppa.com",
